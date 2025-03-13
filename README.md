@@ -60,7 +60,7 @@ Make this project **your own**!
 
 ## 📜 **License**  
 This project is licensed under the MIT License – see [LICENSE](LICENSE) for details.  
-*Made with ❤️ Aoudumber Bade*  
+*Made with ❤️ Ashutosh Sinha*  
 
 ---
 
